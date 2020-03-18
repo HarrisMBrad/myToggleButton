@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyToggleButton</string>
+    <string name="hide_seek_btn">ToggleButton</string>
+    <string name="hide_n_seek">Hide and Seek</string>
+    <string name="peek">Peek-A-Chew</string>
+    <string name="brad_harris_icon">brad_harris_img</string>
+</resources>
